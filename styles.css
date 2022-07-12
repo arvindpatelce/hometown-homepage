@@ -1,6 +1,7 @@
 #hero {
     background-image: url(images/mumbaibanner.avif);
     background-size: cover;
+    background-position: center;
     padding:10px 0px 180px 0px;
     display: flex;
     flex-direction: column;
